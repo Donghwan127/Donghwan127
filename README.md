@@ -60,8 +60,6 @@
 
 - **Hand Bone Image Segmentation**&nbsp;&nbsp;&nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Donghwan127/level2-cv-semanticsegmentation-cv-14-lv3)
 
-- **다국어 영수증 OCR**&nbsp;&nbsp;&nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Donghwan127/multilingual-receipt-OCR)
-
 - **재활용 품목 분류를 위한 Object Detection**&nbsp;&nbsp;&nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Donghwan127/level2-objectdetection-cv-18)
 
 - **스케치 이미지 데이터 Classification**&nbsp;&nbsp;&nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Donghwan127/level1-imageclassification-cv-18)
